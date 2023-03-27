@@ -1,6 +1,6 @@
 {
-    "name": "Hello World",
-    "short_name": "Hello",
+    "name": "PWA Systemy Mobilne",
+    "short_name": "PWA SM",
     "icons": [{
         "src": "images/pwa-icon-144.png",
         "sizes": "144x144",
